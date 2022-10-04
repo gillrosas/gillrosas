@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently starting in date science world
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on ...
+
+
