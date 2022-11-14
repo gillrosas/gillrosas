@@ -5,7 +5,8 @@
 #### ℹ️ Below you can see some informations about me 
 ---
 ## 🔎 How to contact me 🔎
-(https://www.linkedin.com/in/gillane-rosas/)
+![https://www.google.com/search?q=LINKEDIN&sxsrf=ALiCzsYFEu4CJH0SHBL0fzj6ovbA5kVH2g:1668465056350&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj8z4PY3K77AhVJpZUCHcb6BG4Q_AUoAnoECAIQBA&biw=1366&bih=625&dpr=1#imgrc=cylHFzSoGlkbzM](https://www.linkedin.com/in/gillane-rosas/)
+
 (mailto:rosasgillane26@gmail.com)
 
 ---
