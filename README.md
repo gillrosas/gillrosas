@@ -10,23 +10,24 @@
 
 ---
 ## 🎓 Academic 🎓
-#### I'm Chemical Engineer 
-### Starting in the Science Data
+#### I'm become a software dev
 ---
 ---
 ## 🚀 Technologies, Languages, etc 🚀
 #### Some technologies that I'm always playing on:
 
-🐍 Python
+🧠 Artificial Inteligence
+  ♊ Gemini
+  👨‍💻 ChatGPT
+  👩‍🏫 Perplexity
+  
 
-🐬 MySQL
+🐍 Python
 
 ---
 ## 📓 I'm currently studying 📓
 
-Machine Learnig
-
-AWS
+Software Development 
 
 
 
